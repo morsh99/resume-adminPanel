@@ -16,5 +16,12 @@ namespace resumePresentation.Controllers
             //some code
             return View();
         }
+
+        [HttpPost]
+        public IActionResult ListOfUsers(string username, string email)
+        {
+            //some code
+            return View();
+        }
     }
 }
