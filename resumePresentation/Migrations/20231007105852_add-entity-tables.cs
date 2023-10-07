@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore.Migrations;
+using System.ComponentModel.DataAnnotations;
 
 #nullable disable
 
@@ -71,3 +72,4 @@ namespace resumePresentation.Migrations
         }
     }
 }
+    

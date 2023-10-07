@@ -18,6 +18,4 @@ namespace resumePresentation.Models.Entites.ResumeDbContext
         public DbSet<MySkills> MySkills { get; set; }
     }
 
-    
-
 }
